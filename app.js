@@ -18,7 +18,7 @@ let student_data = {
 }
 // Question 1B.
 student_data.Sarah.id=4;
-student_data.Sarah.major=CS;
+student_data.Sarah.major=Business;
 
 function displayStudents(id, name, major){
 
